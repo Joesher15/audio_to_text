@@ -12,7 +12,7 @@ install all the necessary dependencies
 ```commandline
 sudo apt install python3-venv
 python3 -m venv audio_2_text_env
-source audio_2_text/bin/activate
+source audio_2_text_env/bin/activate
 pip install -r requirements.txt
 ```
 
